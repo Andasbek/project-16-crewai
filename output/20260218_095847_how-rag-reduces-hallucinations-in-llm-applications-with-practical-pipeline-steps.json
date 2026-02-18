@@ -1,0 +1,11 @@
+{
+  "topic": "How RAG reduces hallucinations in LLM applications (with practical pipeline steps)",
+  "audience": "General Tech Enthusiasts",
+  "tone": "Professional",
+  "word_range": [
+    800,
+    1200
+  ],
+  "use_search": true,
+  "num_sources": 5
+}
