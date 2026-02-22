@@ -125,7 +125,7 @@ def main():
     with st.expander("📜 History (Output Directory)"):
         history = get_history()
         if history:
-            st.dataframe(history, use_container_width=True)
+            st.dataframe(history, width='stretch')
             if st.button("Refresh History"):
                 st.rerun()
         else:

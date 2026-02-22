@@ -1,0 +1,12 @@
+{
+  "topic": "Space weather: how solar storms affect GPS, satellites, and power grids",
+  "audience": "General Tech Enthusiasts",
+  "tone": "Professional",
+  "word_range": [
+    800,
+    1200
+  ],
+  "use_search": true,
+  "num_sources": 5,
+  "language": "English"
+}

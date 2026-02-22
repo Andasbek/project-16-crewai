@@ -1,5 +1,5 @@
 {
-  "topic": "How RAG reduces hallucinations in LLM applications (with practical pipeline steps)",
+  "topic": "Space weather: how solar storms affect GPS, satellites, and power grids",
   "audience": "General Tech Enthusiasts",
   "tone": "Professional",
   "word_range": [
@@ -7,5 +7,6 @@
     1200
   ],
   "use_search": true,
-  "num_sources": 5
+  "num_sources": 5,
+  "language": "Russian"
 }
